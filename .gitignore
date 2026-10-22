@@ -1,0 +1,48 @@
+# Visual Studio user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+# Build directories
+Debug/
+Release/
+x64/
+x86/
+build/
+out/
+
+# Compiled C++ files
+*.obj
+*.o
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.pch
+*.tlog
+*.lastbuildstate
+*.log
+
+# Visual Studio generated files
+ipch/
+[Bb]in/
+[Oo]bj/
+*.VC.db
+*.VC.opendb
+*.VC.db-shm
+*.VC.db-wal
+*.VC.VC.opendb
+*.opensdf
+*.sdf
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
